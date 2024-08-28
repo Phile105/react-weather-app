@@ -17,7 +17,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href=""
+            href="https://reliable-kitten-7fca5f.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
